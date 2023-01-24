@@ -1,0 +1,12 @@
+.bg-color{
+    background-color: aquamarine;
+}
+
+.card{
+    height: auto;
+    width: 20em;
+    padding: 1em;
+    text-align: start;
+    background-color:blanchedalmond;
+
+}
